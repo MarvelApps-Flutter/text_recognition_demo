@@ -1,4 +1,4 @@
-# text_recognition_demo
+# Text Recognition Module
 
 
 A flutter app demonstrating text recognition using the google ML kit.
