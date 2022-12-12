@@ -1,4 +1,4 @@
-# Text Recognition Module
+# Text Recognition Demo
 
 
 A flutter app demonstrating text recognition using the google ML kit.
@@ -26,7 +26,7 @@ A flutter app demonstrating text recognition using the google ML kit.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/master/screenshots/ios/.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/carousel_demo/blob/master/screenshots/ios/ios1.png" height="480px"></td>
   </tr>
  </table>
 
